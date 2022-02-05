@@ -1,7 +1,7 @@
 mainnav {
     display: block;
     width: 10%;
-    background-color: pink;
+    background-color: #C5D0F8;
     position: fixed;
     top: 0;
     left: 0;
@@ -12,6 +12,7 @@ mainnav ul {
     list-style-type: none;
     display: block;
     width: 100%;
+    padding-top: 50px;
 }
 
 mainnav li {

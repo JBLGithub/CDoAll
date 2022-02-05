@@ -1,0 +1,17 @@
+mainheader {
+    display: block;
+    width: 90%;
+    position: fixed;
+    background-color: #558A44;
+    top: 0;
+    right: 0;
+    height: 50px;
+    line-height: 50px;
+}
+
+mainheader h1 {
+    display: block;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
