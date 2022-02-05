@@ -1,18 +1,17 @@
 mainnav {
     display: block;
-    width: 5%;
     background-color: #C5D0F8;
     position: fixed;
     top: 0;
     left: 0;
     height: 100%;
+    width: 100px;
 }
 
 mainnav ul {
     list-style-type: none;
     display: block;
     width: 100%;
-    padding-top: 50px;
 }
 
 mainnav li {
@@ -21,19 +20,10 @@ mainnav li {
 }
 
 @media only screen and (max-width: 1000px) {
-    mainnav {
-        width: 10%;
-    }
 }
 
 @media only screen and (max-width: 800px) {
-    mainnav {
-        width: 20%;
-    }
 }
 
 @media only screen and (max-width: 400px) {
-    mainnav {
-        width: 30%;
-    }
 }

@@ -1,12 +1,12 @@
 mainheader {
     display: block;
-    width: 95%;
     position: fixed;
     background-color: #558A44;
     top: 0;
     right: 0;
-    height: 50px;
-    line-height: 50px;
+    left: 100px;
+    height: 100px;
+    line-height: 100px;
 }
 
 mainheader h1 {
@@ -17,19 +17,10 @@ mainheader h1 {
 }
 
 @media only screen and (max-width: 1000px) {
-    mainheader {
-        width: 90%;
-    }
 }
 
 @media only screen and (max-width: 800px) {
-    mainheader {
-        width: 80%;
-    }
 }
 
 @media only screen and (max-width: 400px) {
-    mainheader {
-        width: 70%;
-    }
 }
