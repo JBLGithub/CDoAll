@@ -18,3 +18,15 @@ mainnav li {
     display: block;
     width: 100%;
 }
+
+@media only screen and (max-width: 600px) {
+    mainnav {
+        width: 20%;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    mainnav {
+        width: 25%;
+    }
+}
