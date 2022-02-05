@@ -1,0 +1,20 @@
+mainnav {
+    display: block;
+    width: 10%;
+    background-color: pink;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+}
+
+mainnav ul {
+    list-style-type: none;
+    display: block;
+    width: 100%;
+}
+
+mainnav li {
+    display: block;
+    width: 100%;
+}

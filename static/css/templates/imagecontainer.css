@@ -1,0 +1,9 @@
+imagecontainer {
+    display: block;
+    width: 100%;
+}
+
+imagecontainer img {
+    display: block;
+    width: 100%;
+}
