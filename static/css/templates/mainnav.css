@@ -27,6 +27,6 @@ mainnav li {
 
 @media only screen and (max-width: 400px) {
     mainnav {
-        width: 25%;
+        width: 30%;
     }
 }
